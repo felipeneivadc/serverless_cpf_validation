@@ -150,7 +150,3 @@ az login
 az account set --subscription "<seu-id-de-assinatura>"
 func azure functionapp publish <nome-da-sua-function-app>
 ```
-
-## Contribuição <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
-
-Sinta-se à vontade para contribuir com melhorias neste projeto. Envie um pull request ou abra uma issue para discussão.
